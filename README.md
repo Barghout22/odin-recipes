@@ -1,1 +1,2 @@
 # odin-recipes
+Throughout the initial html section of this project, I was able to add and link multiple pages of food recipes to the index page,each with images,head files , paragraphs , ordered and unordered lists. 
